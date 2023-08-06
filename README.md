@@ -18,4 +18,6 @@ Looking forward to exploring the endless possibilities with you! 🚀
 
 📧 Email: dojitha.mirihagalla@gmail.com
 💼 LinkedIn: [Dojitha Mirihagalla](https://www.linkedin.com/in/dojitha-mirihagalla-419392267/)
+
 📷 Instagram: [@dojitha_mirihagalla](https://www.instagram.com/dojitha_mirihagalla/)
+📘 Facebook: [Dojitha.Mirihagalla](https://www.facebook.com/dojitha.mirihagalla)
