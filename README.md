@@ -1,17 +1,9 @@
-## 👋 Hi, I'm Dojitha Mirihagalla!
+👋 Hi, I'm Dojitha Mirihagalla!
+I'm a final-year engineering student passionate about embedded systems, RF, IoT, electronics, and robotics. I love turning ideas into real, working solutions.
 
-Welcome to my GitHub profile, I am a passionate individual with a keen interest in exploring the vast world of technology. As an avid learner, I'm constantly seeking new opportunities to expand my knowledge and expertise.
+I'm always open to new projects and collaborations—feel free to reach out!
 
-## 🌱 Currently, 
-I am immersed in the exciting things of Deep Learning, electronics, PCB design, Machine Learning, Computer Vision, robotics, and so on. I love delving into complex challenges and transforming ideas into tangible, cutting-edge solutions.
-
-## 🔥 I am eager to
-collaborate with like-minded enthusiasts and professionals on thrilling projects that push the boundaries of what's possible.
-
-📫 Feel free to reach out to me through any of the channels listed below.
-
-Looking forward to exploring the endless possibilities with you! 🚀
-
+Looking forward to building something great together. 🚀
 
 ---
 ## Contact Me
