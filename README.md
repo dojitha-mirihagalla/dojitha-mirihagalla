@@ -1,8 +1,5 @@
 👋 Hi, I'm Dojitha Mirihagalla!
-I'm a final-year engineering student passionate about embedded systems, RF, IoT, electronics, and robotics. I love turning ideas into real, working solutions.
-
-I'm always open to new projects and collaborations—feel free to reach out!
-
+Self-taught and quick learner with hands-on experience in embedded systems, RF engineering, IoT, electronics, and advanced PCB design. Skilled in problem-solving, adaptable to new challenges, and a strong team player eager to contribute and grow.
 Looking forward to building something great together. 🚀
 
 ---
